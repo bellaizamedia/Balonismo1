@@ -1,5 +1,4 @@
-public class Balao {
-   import java.util.Scanner;
+import java.util.Scanner;
 public class Balao {
 
     private int id;
