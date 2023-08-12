@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args){
       import java.util.Scanner;
-
+        
 import Piloto;
 import Balao;
 import Pessoa;
